@@ -10,8 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "gradle": "^1.2.4",
+    "gradlew": "^0.0.1-security",
+    "math-expression-evaluator": "^2.0.5",
     "react": "18.3.1",
-    "react-native": "0.75.4"
+    "react-native": "0.75.4",
+    "react-native-splash-screen": "^3.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

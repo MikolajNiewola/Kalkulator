@@ -1,4 +1,5 @@
 {
   "name": "Lab03",
-  "displayName": "Lab03"
+  "displayName": "Lab03",
+  "orientation": "default"
 }
